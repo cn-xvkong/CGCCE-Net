@@ -1,6 +1,6 @@
 # **[CGCCE-Net:Change-Guided Cross Correlation Enhancement Network for Remote Sensing Building Change Detection]**
 If you like our project, please give us a star ⭐.
-[fig2.pdf](https://github.com/user-attachments/files/22984416/fig2.pdf)
+<img width="1101" height="646" alt="image" src="https://github.com/user-attachments/assets/63aa5acd-2bd7-4987-b2d2-d8124977e5aa" />
 # 🔯Implementation details
 ## ❓Environment
 ```
