@@ -10,9 +10,15 @@ conda activate CGCCE
 ## 🔑	Pre-trained model
 Download pretrained model: [pvt_v2_b2.pth](https://github.com/whai362/PVT).
 
-## ✏️Training
+
+# 📜	Citation
 ```
-python train.py
-python test.py
+@article{wang2026cgcce,
+  title={CGCCE-Net: Change-guided cross correlation enhancement network for remote sensing building change detection},
+  author={Wang, Chengming and Gao, Zhaolong and Li, Jinjiang},
+  journal={Information Sciences},
+  pages={123320},
+  year={2026},
+  publisher={Elsevier}
+}
 ```
-# ♥️Acknowledgement
